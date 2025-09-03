@@ -1,6 +1,6 @@
 # Team Developer Community
 
-Welcome to the **Team Developer Community** GitHub organization! 🎉  
+Welcome to the **Team Developer Community** GitHub page! 🎉  
 
 This is the place for shared open-source projects, tools, and libraries for Team Developer / SQLWindows developers.  
 
